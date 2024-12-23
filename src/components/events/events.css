@@ -1,0 +1,44 @@
+.events__text {
+    padding: 90px 0px 40px;
+}
+
+.events__text-1 {
+    color: rgba(255, 255, 255, 0.3);
+}
+
+.events__text-2 {
+    color: white;
+}
+
+.events__stepList {
+    display: flex;
+    flex-direction: column;
+    gap: 10px
+}
+
+.events__button {
+    display: inline-block;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 27px;
+    margin: 30px 0px 70px;
+    gap: 10px;
+
+    background: #CDA5D5;
+    border-radius: 20px;
+
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 26px;
+    color: black;
+}
+
+.events__button img {
+    padding-right: 10px;
+}
+
+.formContainer__text {
+    align-self: baseline;
+}
+

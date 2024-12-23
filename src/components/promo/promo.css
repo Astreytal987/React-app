@@ -1,0 +1,29 @@
+.promo__text {
+    color: red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 0px 70px; 
+    /* надо поправить отступы */
+}
+
+.promo__text-h1 {
+    background: linear-gradient(278.85deg, #CDA5D5 3.36%, #FBE4FF 48.72%, #E8FE74 99.06%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.promo__text-p {
+    background: linear-gradient(90deg, #D5B1DD 0%, #E8FE74 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    padding-top: 30px;
+}
+
+.promo__img img {
+/* Purple */
+background: #CDA5D5;
+border-radius: 100px;
+}
